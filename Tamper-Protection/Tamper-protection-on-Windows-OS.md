@@ -10,6 +10,15 @@ protection and cloud-delivered protection.
 Microsoft Defender for Endpoint will turn on tamper protection by default for all enterprise customers. If you are using a 
 personal system that is not managed by an organization’s security team, you can manage tamper protection using the following steps.
 
-Steps
+Steps:
 --
-1. In the search box
+1. In the search box on the taskbar, type **Windows Security** and then select **Windows Security**. 
+
+ ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-01.jpg "icon") 
+ 
+ 2. In Windows Security, select **Virus & threat protection** and then under **Virus & threat protection settings**, select **Manage settings**.
+  ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-03.jpg "icon") 
+ 
+ 3. Change the **Tamper Protection** setting to **On**.
+
+  ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-04.jpg "icon") 

@@ -24,6 +24,12 @@ Steps:
 
   ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-04.jpg "icon") 
 
+---
+Use PowerShell to check Tamper Protection
+--
+1.	Open the **PowerShell application**.
+2.	Enter the **Get-MPComputerStatus** PowerShell cmdlet.
+3.	In the list of results, look for **IsTamperProtection**. If the value is **true**, then Tamper Protection is enabled.
 
 
 

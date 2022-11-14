@@ -31,6 +31,7 @@ Use PowerShell to check Tamper Protection
 2.	Enter the **Get-MPComputerStatus** PowerShell cmdlet.
 3.	In the list of results, look for **IsTamperProtection**. If the value is **true**, then Tamper Protection is enabled.
 
+  ![Image](/Tamper-Protection/media/PowerShell_To_Check_Tamper_Protection.jpg "icon") 
 
 
 Useful Links

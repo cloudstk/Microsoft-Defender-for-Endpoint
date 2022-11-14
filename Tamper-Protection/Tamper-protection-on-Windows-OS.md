@@ -17,6 +17,7 @@ Steps:
  ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-01.jpg "icon") 
  
  2. In Windows Security, select **Virus & threat protection** and then under **Virus & threat protection settings**, select **Manage settings**.
+ 
   ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-03.jpg "icon") 
  
  3. Change the **Tamper Protection** setting to **On**.

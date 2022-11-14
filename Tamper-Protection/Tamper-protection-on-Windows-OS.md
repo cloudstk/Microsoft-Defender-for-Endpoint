@@ -23,3 +23,10 @@ Steps:
  3. Change the **Tamper Protection** setting to **On**.
 
   ![Image](/Tamper-Protection/media/Windows10-Tamper-protection-04.jpg "icon") 
+
+
+
+
+Useful Links
+--
+[Protect security settings with tamper protection](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/prevent-changes-to-security-settings-with-tamper-protection?view=o365-worldwide)

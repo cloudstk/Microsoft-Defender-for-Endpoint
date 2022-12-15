@@ -1,4 +1,4 @@
-Disable Autorun/AutoPlay in Windows
+Disable Autorun in Windows
 ===
 
 

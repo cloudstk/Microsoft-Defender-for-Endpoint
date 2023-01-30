@@ -8,3 +8,5 @@ Useful links:
 [Azure Synapse Analytics security white paper: Introduction](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-introduction)
 
 [Azure Synapse Analytics security white paper: Data protection](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-data-protection)
+
+[Azure Synapse Analytics security white paper: Access control](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-access-control)

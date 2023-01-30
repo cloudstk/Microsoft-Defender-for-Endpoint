@@ -5,4 +5,6 @@ Useful links:
 
 [Requirements for managing tamper protection in Intune](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-tamper-protection-microsoft-endpoint-manager?view=o365-worldwide)
 
-[Azure Synapse Analytics security white paper](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-introduction)
+[Azure Synapse Analytics security white paper: Introduction](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-introduction)
+
+[Azure Synapse Analytics security white paper: Data protection](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-data-protection)

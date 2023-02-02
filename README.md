@@ -13,4 +13,4 @@ Useful links:
 
 [Azure Synapse Analytics security white paper: Authentication](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-authentication)
 
-[https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-network-security](Azure Synapse Analytics security white paper: Network security)
+[Azure Synapse Analytics security white paper: Network security](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-network-security)
